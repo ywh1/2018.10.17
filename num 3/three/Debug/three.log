@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/10/17 8:11:39。
+     1>项目“C:\Users\hp\Documents\GitHub\num 3\three\three.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Cpp\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+       Link:
+         E:\Cpp\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hp\Documents\GitHub\num 3\Debug\three.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hp\Documents\GitHub\num 3\Debug\three.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hp\Documents\GitHub\num 3\Debug\three.lib" /MACHINE:X86 Debug\three.obj
+         "Debug\源.obj"
+         "Debug\源1.obj"
+         three.vcxproj -> C:\Users\hp\Documents\GitHub\num 3\Debug\three.exe
+     1>已完成生成项目“C:\Users\hp\Documents\GitHub\num 3\three\three.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
